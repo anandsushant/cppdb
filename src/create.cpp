@@ -1,0 +1,7 @@
+void createTable() {
+
+}
+
+void createDatabase() {
+
+}

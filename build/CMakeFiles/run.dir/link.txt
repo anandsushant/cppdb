@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run.dir/src/DBengine.cpp.o CMakeFiles/run.dir/src/cppdb.cpp.o CMakeFiles/run.dir/src/create.cpp.o CMakeFiles/run.dir/src/database.cpp.o CMakeFiles/run.dir/src/main.cpp.o CMakeFiles/run.dir/src/queryInput.cpp.o CMakeFiles/run.dir/src/timer.cpp.o -o run 

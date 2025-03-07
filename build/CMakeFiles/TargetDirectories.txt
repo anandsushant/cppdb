@@ -1,0 +1,3 @@
+/home/sushantanand/project/cppdb/cppdb/build/CMakeFiles/run.dir
+/home/sushantanand/project/cppdb/cppdb/build/CMakeFiles/edit_cache.dir
+/home/sushantanand/project/cppdb/cppdb/build/CMakeFiles/rebuild_cache.dir
